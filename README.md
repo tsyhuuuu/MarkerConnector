@@ -3,6 +3,7 @@
 
 Marker Connector is an image processing project that identifies and connects markers between sponges in an image using advanced techniques. 
 The program uses clustering, linear regression, and customizable visualization methods for precise and efficient marker linking.
+**Note**: Comments in the project are written in Japanese to ensure clarity for native speakers.
 
 ## Features
 
